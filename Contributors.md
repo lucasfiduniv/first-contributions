@@ -1,5 +1,6 @@
 ﻿# Contributors
 - Ashwini Jha
+- Vagner Luis Carneiro de Campos
 - Steve Feivor
 - Song Ning Peng
 - Sethu Ram Kumar
@@ -20147,4 +20148,8 @@ rehan
 - [masatsugu hirata](https://github.com/masatsuguhirata)
 - [Patrick Shiel](https://github.com/patrickshiel)
 - [Mehmet Durmaz](https://github.com/mehmetdurmazz)
+<<<<<<< HEAD
 - [Lucas Fiduniv](https://github.com/lucasfiduniv)
+=======
+- [Inacio Neves](https://github.com/InacioNeves)
+>>>>>>> f094ac0c3e29ecad6ad74d4d5f06509342c83036
